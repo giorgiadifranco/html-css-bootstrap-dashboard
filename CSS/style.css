@@ -1,7 +1,9 @@
 .debug header{
     border: 1px dashed;
 }
-
+.debug main .container{
+    border: 1px dashed;;
+}
 /*img{
     width: 50px;
 }*/
