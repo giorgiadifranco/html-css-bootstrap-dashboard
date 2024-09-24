@@ -9,5 +9,5 @@ img{
 }
 
 .button{
-    width: 150px;
+    min-width: 120px;
 }
